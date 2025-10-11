@@ -3,15 +3,14 @@
 <html xmlns="https://www.w3.org/1999/xhtml/" xml:lang="en" lang="en">
 
 <head>
-    <title>Strict DTD XHTML</title>
+    
+    <title>À LA CLAIRE FONTAINE,</title>
 </head>
 
 <body>
-    <title>À LA CLAIRE FONTAINE,</title>
-<p>
-    Chant National.  
+   <p> Chant National. </p> 
     
-    À la claire fontaine,
+   <p> À la claire fontaine,
     
     M’en allant promener,
     
@@ -101,8 +100,8 @@
     
     Fût dans la mer jeté.
     
-    Il y longtemps etc.
-</p>
+    Il y longtemps etc. </p>
+
 </body>
 
 </html>
