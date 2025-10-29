@@ -3,8 +3,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "DTD/xhtml1-strict.dtd">
 <html xmlns="https://www.w3.org/1999/xhtml/" xml:lang="en" lang="en">
 
-<link rel="stylesheet" href="mystyle.css">
-
 <head>
     <title>Chants canadiens</title>
 </head>
@@ -27,15 +25,13 @@
     </div>
     <br />
     <div>
-        <h4 id="lord_granville">Lord Granville de Somerset</h4>
+        <h4 id="lord_granville">xxx</h4>
         <p><a href="https://en.wikipedia.org/wiki/Lord_Granville_Somerset">Notice Wikipedia</a></p>
-        <p>Lord Granville Charles Henry Somerset PC (27 December 1792 – 23 February 1848) was a British Tory politician.
-            He held office under Sir Robert Peel as First Commissioner of Woods and Forests between 1834 and 1835 and as
-            Chancellor of the Duchy of Lancaster between 1841 and 1846.</p>
+        <p>xxxx</p>
         <ul>
             <span class="title">Mentions</span>
-            <li><a href="1840_03_13.html#lord_granville_m1">Lettre du 13 mars 1840</a></li>
-            <li><a href="1840_03_15.html#lord_granville_m1">Lettre du 15 mars 1840</a></li>
+            <li><a href="texte_2.html">chant 2 </a></li>
+            <li><a href="texte_1.html">chant 1 </a></li>
         </ul>
     </div>
     <br />
@@ -44,14 +40,11 @@
     <h2 class="organisation">Organisations</h2>
     <br />
     <div>
-        <h4 id="royal_society">Royal Society</h4>
-        <p>La Royal Society, dont le nom officiel est Royal Society of London for the Improvement of Natural Knowledge
-            et que l'on peut traduire littéralement par « Société royale de Londres pour l'amélioration des
-            connaissances naturelles », est une institution fondée en 1660 siégeant au Carlton House Terrace à Londres
-            et destinée à la promotion des sciences. (Wikipedia)</p>
+        <h4 id="royal_society">fdgdfg</h4>
+        <p>fghsf</p>
         <ul>
             <span class="title">Mentions</class>
-                <li><a href="1840_03_15.html#royal_society_m1">Lettre du 15 mars 1840</a></li>
+                <li><a href="texte_3.html">chant 3</a></li>
         </ul>
     </div>
 
