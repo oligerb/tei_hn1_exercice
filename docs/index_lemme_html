@@ -9,7 +9,7 @@
 
 <body>
 
-    <h2 class="word">Lemmes</h2>
+    <h2 class="amour">amour</h2>
     <br />
 
     <div>
@@ -23,7 +23,7 @@
     </div>
     <br />
     <div>
-        <h4 id="lord_granville">xxx</h4>
+        <h4 id="nostalgie">nostalgie</h4>
         <p><a href="https://en.wikipedia.org/wiki/Lord_Granville_Somerset">Notice Wikipedia</a></p>
         <p>xxxx</p>
         <ul>
