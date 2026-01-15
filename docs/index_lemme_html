@@ -9,7 +9,7 @@
 
 <body>
 
-    <h2 class="amour">amour</h2>
+    <h2 class="chant">chant</h2>
     <br />
 
     <div>
@@ -30,6 +30,14 @@
             <span class="title">Mentions</span>
             <li><a href="textes/texte_2.html">chant 2 </a></li>
             <li><a href="textes/texte_1.html">chant 1 </a></li>
+            <li><a href="textes/texte_3.html">chant 3 </a></li>
+            <li><a href="textes/texte_4.html">chant 4 </a></li>
+            <li><a href="textes/texte_5.html">chant 5 </a></li>
+            <li><a href="textes/texte_6.html">chant 6 </a></li>
+            <li><a href="textes/texte_7.html">chant 7 </a></li>
+            <li><a href="textes/texte_8.html">chant 8 </a></li>
+            <li><a href="textes/texte_9.html">chant 9 </a></li>
+            <li><a href="textes/texte_10.html">chant 10 </a></li>
         </ul>
     </div>
     <br />
